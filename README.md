@@ -1,39 +1,100 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e57d90&height=120&section=header"/>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:e91e8c,100:ff6b9d&height=200&section=header&text=Beatriz%20Alves&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20%7C%20AI%20%7C%20UX%2FUI&descColor=ffb3d1&descSize=20&descAlignY=58&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f1889b&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Beatriz+Alves;I'm+a+Computer+Science+student+at+UNICID;Check+out+here!+:%29)](https://git.io/typing-svg) 
-
-<div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonEuzebio&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EdisonEuzebio&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-<div align="center">  
-<a href="https://www.instagram.com/edison.euz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
- 
-### Main skills:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
- 
-### Tools:
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
- 
-### Studying in this moment:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+<div align="center">
 
-<!-- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{EdisonEuzebio}/count.svg" /></p> 
-<br></div> -->
+### ✦ sobre mim ✦
 
+</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e57d90&height=120&section=footer"/>
+```python
+beatriz = {
+    "nome":       "Beatriz Alves",
+    "localização": "Brasil 🇧🇷",
+    "paixões":    ["Dados", "Inteligência Artificial", "UX/UI Design"],
+    "missão":     "Transformar dados em experiências humanas incríveis",
+    "aprendendo": ["Python", "HTML5", "JavaScript", "CSS", "MySQL"],
+    "sonho":      "Criar produtos que as pessoas amem usar 💡"
+}
+```
+
+---
+
+<div align="center">
+
+### 🧠 foco atual
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center">📊<br/><b>Dados</b><br/><sub>Análise & Visualização</sub></td>
+    <td align="center">🤖<br/><b>IA</b><br/><sub>Machine Learning</sub></td>
+    <td align="center">🎨<br/><b>UX/UI</b><br/><sub>Design centrado no usuário</sub></td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🛠️ habilidades principais
+
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=ff6b9d)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=ff6b9d)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=ff6b9d)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=ff6b9d)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=ff6b9d)
+
+### 🧰 ferramentas
+
+![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=ff6b9d)
+![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=for-the-badge&logo=figma&logoColor=ff6b9d)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1a2e?style=for-the-badge&logo=visualstudiocode&logoColor=ff6b9d)
+![Windows](https://img.shields.io/badge/Windows-1a1a2e?style=for-the-badge&logo=windows&logoColor=ff6b9d)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 github stats
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=beatrizcassiaalves-lang&show_icons=true&theme=radical&bg_color=1a1a2e&title_color=ff6b9d&icon_color=e91e8c&text_color=ffffff&border_color=e91e8c&hide_border=false" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizcassiaalves-lang&layout=compact&theme=radical&bg_color=1a1a2e&title_color=ff6b9d&text_color=ffffff&border_color=e91e8c" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=beatrizcassiaalves-lang&theme=radical&background=1a1a2e&ring=e91e8c&fire=ff6b9d&currStreakLabel=ff6b9d&border=e91e8c" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 me encontre por aí
+
+[![Instagram](https://img.shields.io/badge/Instagram-e91e8c?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_INSTAGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=ff6b9d)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=ff6b9d)](mailto:SEU_EMAIL)
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Os dados são o novo petróleo — mas o design é o motor que os faz mover as pessoas."* ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9d,50:e91e8c,100:1a1a2e&height=120&section=footer" />
+
+</div>
