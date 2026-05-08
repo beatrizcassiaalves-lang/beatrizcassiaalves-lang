@@ -57,12 +57,8 @@ O mundo da tecnologia está em constante evolução, e eu adoro estar sempre atu
 Aqui estão alguns dos meus projetos desenvolvidos em sala de aula. Eles refletem minhas paixões e o que sou capaz de construir!
 
 
-[Link para o Repositório](https://github.com/seu-usuario/nome-do-projeto-1)
+[Link para o Repositório](./portfolio-beatriz-cassia-alves-da-silva/)
 
-<!-- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{EdisonEuzebio}/count.svg" /></p> 
-<br></div> -->
 
 ## Onde me encontrar?
 
