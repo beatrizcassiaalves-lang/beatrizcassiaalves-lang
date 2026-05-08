@@ -67,8 +67,8 @@ Aqui estão alguns dos meus projetos desenvolvidos em sala de aula. Eles reflete
 ## Onde me encontrar?
 
 <div align="left">  
-<a href="https://www.instagram.com/s.seaari?igsh=c2wwNWVmcWIxZDdp" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23ff6b9d.svg?style=for-the-badge&logo=instagram&logoColor=white"</a>
- <a href="https://www.linkedin.com/in/beatriz-alves-968a7b256?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23ff6b9d.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.instagram.com/s.seaari?igsh=c2wwNWVmcWIxZDdp" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23ff6b9d.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/beatriz-alves-968a7b256?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23ff6b9d.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e57d90&height=120&section=footer"/>
